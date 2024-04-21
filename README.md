@@ -1,2 +1,1 @@
-# StonePaper
-#hand.png
+
